@@ -1,6 +1,6 @@
 #  TP1 - Análisis de Plataforma de Ventas Online
 
-## Aprendizaje de máquinas I
+## Aprendizaje de máquina I
 
 ### Domenje, Carlos R.
 
@@ -30,3 +30,12 @@ Para este trabajo se tomará la columna **isFraud** como nuestra variable a pred
 
 ## Análisis de datos
 
+## Regresión Logística
+
+## Decision Tree
+
+## Random Forest
+
+## PyCaret
+
+## Conclusión
