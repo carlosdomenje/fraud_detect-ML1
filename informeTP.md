@@ -78,6 +78,8 @@ Con la implementación del algoritmo de random forest, logramos mejorar en peque
 Por último, se utilizó PyCaret para verificar que el análisis anterior sea correcto en cuanto a los valores obtenidos. Además, se pudo ver que hay muchos algoritmos que se implementan en esta librería que no se pudieron probar ya que en las simulaciones nunca llegan a converger por lo que se decidió quitarlos y solo quedarse con aquellos que si lo hacen. 
 
 Vemos que en primer lugar nos recomienda utilizar RandomForest, luego DecisionTree y en quinto lugar regresión logística lo cual coincide con el análisis realizado previamente.
+
+
 ## Conclusión
 
 Mediante este trabajo practico se pudieron aplicar los conceptos vistos durante las clases de la materia. Se pudieron utilizar las diferentes funciones para realizar el análisis de los datos y poder prepararlos para la aplicación de los algoritmos de ML. 
